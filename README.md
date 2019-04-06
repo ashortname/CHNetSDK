@@ -1,0 +1,2 @@
+# CHNetSDK
+CHNetSDK.dll
